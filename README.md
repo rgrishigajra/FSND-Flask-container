@@ -1,5 +1,6 @@
-### External Ip url >// http://a9ae78df2b575414a87894e5548cb8a4-1287435368.us-east-2.elb.amazonaws.com/
 
+External Ip url >// http://a9ae78df2b575414a87894e5548cb8a4-1287435368.us-east-2.elb.amazonaws.com/
+Deleted the aws resources to avoid charges.
 
 # Deploying a Flask API
 
@@ -40,4 +41,3 @@ Completing the project involves several steps:
 
 For more detail about each of these steps, see the project lesson [here](https://classroom.udacity.com/nanodegrees/nd004/parts/1d842ebf-5b10-4749-9e5e-ef28fe98f173/modules/ac13842f-c841-4c1a-b284-b47899f4613d/lessons/becb2dac-c108-4143-8f6c-11b30413e28d/concepts/092cdb35-28f7-4145-b6e6-6278b8dd7527).
 
-### External Ip url >// http://a9ae78df2b575414a87894e5548cb8a4-1287435368.us-east-2.elb.amazonaws.com/
