@@ -18,7 +18,9 @@ phases:
   build:
     commands:
       - docker build --tag $REPOSITORY_URI:$TAG .
-
+      - python3 -m pip install --upgrade pip
+      - python3 -m pip install -r requirements.txt
+      - python3 -m pytest test_main.py
   post_build:
     commands:
       - docker push $REPOSITORY_URI:$TAG
